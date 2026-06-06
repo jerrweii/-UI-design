@@ -2,6 +2,8 @@
 
 Distilled from `How to Design Better UI Components 3.0.pdf` into repeatable skills for software product work.
 
+UI design best practices for designers, developers, and creative professionals.
+
 Use these skills as a design and implementation checklist when building screens, components, dashboards, websites, or app flows.
 
 ## Recommended Workflow
@@ -33,4 +35,3 @@ Use these skills as a design and implementation checklist when building screens,
 - `cards.md`
 - `design-system.md`
 - `critique-checklist.md`
-
